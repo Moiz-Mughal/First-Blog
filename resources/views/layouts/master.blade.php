@@ -63,6 +63,7 @@ https://templatemo.com/tm-551-stand-blog
               </li>
               <li class="nav-item">
               <i class="fa-light fa-tower-cell 2x"></i>
+              
               </li>
                <!-- Authentication Links -->
                @guest
